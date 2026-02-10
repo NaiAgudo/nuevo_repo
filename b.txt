@@ -1,0 +1,3 @@
+lalalaa
+modifcacion de fichero dentro de pycharm
+fichero sin conflicto
